@@ -1,0 +1,4 @@
+- Default schema for postgres is "public"
+- FlyMigrationConfiguration - Spring autoconfigure provides ability to configure flyway migration against multiple schema
+- postgres follow default sql standards so all table names and column names are by defualt lower case unless wrapped inside double quote
+- 
