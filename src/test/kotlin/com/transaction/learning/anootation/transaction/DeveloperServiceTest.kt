@@ -1,8 +1,6 @@
-package com.transaction.learning.transaction.user
+package com.transaction.learning.anootation.transaction
 
 import com.transaction.learning.transaction.manager.DeveloperService
-import com.transaction.learning.anootation.transaction.DeveloperDao
-import com.transaction.learning.anootation.transaction.DeveloperRepository
 import io.zonky.test.db.AutoConfigureEmbeddedDatabase
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
